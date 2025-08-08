@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an AI researcher specializing in computer vision, deep learning, and machine learning, with a primary focus on developing generative AI models and avatar-based applications that push the boundaries of current technology. Additionally, I bring extensive experience as a skilled software engineer with expertise in embedded systems, network protocols, and industrial computer vision applications.
+
 Currently, I am pursuing a Master’s degree in Computer Science at [Chonnam National University](https://global.jnu.ac.kr/jnumain_en.aspx), under the supervision of [Prof. Hyung-Jeong Yang](https://sclab.jnu.ac.kr/members). Previously, I completed my Bachelor’s degree at Hanoi University of Science and Technology, Vietnam.
 
 I’m a devoted fan of K-Pop music and the game of carom billiards. I aspire to become an engineer, AI leader, scientist, programmer, creative thinker, manager, revisionist, salesman — embracing many roles as a pioneer. Beyond my ambitions, I love exploring new flavors of coffee and soju and sharing great moments with friends.
@@ -51,8 +52,7 @@ Dang Thai Viet, Tran Dinh Manh Cuong, **Phan Van Thien**, Nguyen Huu Tu, Hoang G
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div></div></div>
 <div class='paper-box-text' markdown="1">
 
-[C-G==: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction](https://proceedings.bmvc2023.org/326/)
-**Phan Van Thien**, 
+[C-G==: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction](https://proceedings.bmvc2023.org/326/)**Phan Van Thien**, "Hyung-Jeong Yang"
 </div>
 </div>
 
