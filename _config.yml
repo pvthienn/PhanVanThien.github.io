@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Phan Van Thien"
   avatar           : "images/thien_avatar.jpg"
-  bio              : "Software Engineer, Researcher"
+  bio              : "Software Engineer, AI Researcher"
   location         : "Chonnam, Gwangju, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4IAC5BMAAAAJ&hl=vi&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=2kQEhFUAAAAJ&hl=vi"
   email            : "phanthienbka@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -159,5 +159,5 @@ whitelist:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
-  ignore:
+  ignore:s
     envs: development
