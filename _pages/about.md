@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an AI researcher specializing in computer vision and generative AI models and avatar-based applications that push the boundaries of current technology. Additionally, I bring extensive experience as a skilled software engineer with expertise in embedded systems, network protocols, and artificial intelligence.
+I am an AI researcher specializing in computer vision, generative AI models and avatar-based applications that push the boundaries of current technology. Additionally, I bring extensive experience as a skilled software engineer with expertise in embedded systems, network protocols, and artificial intelligence.
 
 Currently, I am pursuing a Master’s degree in Computer Science at [Chonnam National University](https://global.jnu.ac.kr/jnumain_en.aspx), under the supervision of [Prof. Hyung-Jeong Yang](https://sclab.jnu.ac.kr/members). Previously, I completed my Bachelor’s degree at Hanoi University of Science and Technology, Vietnam.
 
@@ -25,8 +25,9 @@ I’m a devoted fan of K-Pop music and the game of carom billiards. I aspire to 
 
 # 🔥 Experience
 - *2024.03 – present*: AI researcher specializing in generative models at the [Smart Computing Laboratory](https://sclab.jnu.ac.kr/), Chonnam National University, Korea. 
-- *2023.06 – 2024.03*: Software Engineer at [Netvision Telecom](https://www.netvisiontel.com/home/main.php), Hanoi, Vietnam, with the main headquarters in Daejeon, Korea. My projects involved train real-time protocols, 6G networks, and AI applications for cold chain containers. 
-- *2021.06 – 2022.08*: Researcher in Computer Vision, advised by [Prof. Dang Thai Viet](https://sme.hust.edu.vn/officer/ts-dang-thai-viet.html) at Ta Quang Buu Library, Hanoi University of Science and Technolworked part-time as a tutor, offering personalized guidance and support to students in Mathematics, Physics, and Chemistry.
+- *2023.06 – 2024.03*: Software Engineer at [Netvision Telecom](https://www.netvisiontel.com/home/main.php), Hanoi, Vietnam, with the main headquarters in Daejeon, Korea. My projects involved train real-time protocols, 6G networks, and AI applications for containers. 
+- *2021.06 – 2022.08*: Researcher in Computer Vision, advised by [Prof. Dang Thai Viet](https://sme.hust.edu.vn/officer/ts-dang-thai-viet.html) at Ta Quang Buu Library, Hanoi University of Science and Technology
+- *2019 - 2023*: I worked part-time as a tutor, offering personalized guidance and support to students in Mathematics, Physics, and Chemistry.
 
 # 📝 Publications 
 
