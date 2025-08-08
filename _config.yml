@@ -159,5 +159,4 @@ whitelist:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
-  ignore:s
-    envs: development
+  ignore:senvs: development
