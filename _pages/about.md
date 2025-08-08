@@ -24,7 +24,7 @@ Currently, I am pursuing a Master’s degree in Computer Science at [Chonnam Nat
 I’m a devoted fan of K-Pop music and the game of carom billiards. I aspire to become an engineer, AI leader, scientist, programmer, creative thinker, manager, revisionist, salesman — embracing many roles as a pioneer. Beyond my ambitions, I love exploring new flavors of coffee and soju and sharing great moments with friends.
 
 # 🔥 Experience
-- *2024.03-present*: AI researcher specializing in generative models at the [Smart Computing Laboratory](https://sclab.jnu.ac.kr/), Chonnam National University, Korea. 
+- *2024.03 – present*: AI researcher specializing in generative models at the [Smart Computing Laboratory](https://sclab.jnu.ac.kr/), Chonnam National University, Korea. 
 - *2023.06 – 2024.03*: Software Engineer at [Netvision Telecom](https://www.netvisiontel.com/home/main.php), Hanoi, Vietnam, with the main headquarters in Daejeon, Korea. My projects involved train real-time protocols, 6G networks, and AI applications for cold chain containers. 
 - *2021.06 – 2022.08*: Researcher in Computer Vision, advised by [Prof. Dang Thai Viet](https://sme.hust.edu.vn/officer/ts-dang-thai-viet.html) at Ta Quang Buu Library, Hanoi University of Science and Technology, Vietnam.
 - *2019.02 – 2023.01*: I work part-time as a tutor, offering personalized guidance and support to students in Mathematics, Physics, and Chemistry.
