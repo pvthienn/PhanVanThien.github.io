@@ -41,14 +41,14 @@ I’m a devoted fan of K-Pop music and the game of carom billiards. I aspire to 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2024</div><img src='images/ismar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISMAR 2024</div><img alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Design of a Face Recognition Technique Based MTCNN and ArcFace](https://doi.org/10.1007/978-3-031-57460-3_8)
 Dang Thai Viet, Tran Dinh Manh Cuong, **Phan Van Thien**, Nguyen Huu Tu, Hoang Gia Minh, Bui Ngoc Tam
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/bmvc-logo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [C-G==: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction](https://proceedings.bmvc2023.org/326/)
